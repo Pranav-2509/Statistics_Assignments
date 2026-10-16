@@ -1,6 +1,6 @@
 # IPL Powerplay Score Prediction
 
-Course project for **EE3111: Statistics for Electrical Engineers, IIT Madras** (Jan–May 2026).
+Course project for **EE3111: Statistics** (Jan–May 2026).
 
 ## Overview
 
